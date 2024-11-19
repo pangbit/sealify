@@ -1,0 +1,2 @@
+# sealify
+seal verify
